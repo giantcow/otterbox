@@ -1,0 +1,3 @@
+[workspace]
+members = [ "ob-server" ]
+resolver = "2"

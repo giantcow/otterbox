@@ -1,0 +1,2 @@
+port = 8000
+ezv_content_cache_dir = "/content-cache"
